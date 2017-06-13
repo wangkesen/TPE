@@ -29,7 +29,8 @@ Apple pay is currently operational in Taiwan and a list of locations which accep
 **<p><a href="http://www.samsung.com/tw/samsungpay/">Samsung Pay</a><br></p>**
 Samsung Pay has also come to Taiwan recently
 
-**Android Pay**
+**<p><a href="https://www.bnext.com.tw/search/tag/Android%20Pay">Android Pay</a><br></p>**
+And finally, Android pay is now also available as well in Taiwan.
 
 # **Transit Cards (您有卡/一通）**
 <a href="http://imgur.com/BKLACte"><img src="http://i.imgur.com/BKLACte.jpg?2" title="source: imgur.com" /></a>

@@ -9,7 +9,11 @@ Climate:
 
 # **Mobile Payment Systems**
 **Line Pay**
+Line Pay is a payment system similar to Apple pay which operates inside the LINE messaging application offering contactless payment solutions via a mobile barcode that is scanned by the cashier and then the payment is authorized to your credit card. However, it currently does not support Visa/Mastercard/JCB of all countries and is quite limited in functionality for those who are not citizens or residents and do not have a Line Pay Visa Debit/Credit card from CTCB Bank. 
+
 **Apple Pay**
+Apple pay is currently operational in Taiwan and a list of locations which accept Apple pay can be found at the following link. Please note however, although Apple Pay is accepted at Familymart at the current time, it is limited to only Taixin Bank Card holders, and not "open" for use by any credit card until July of 2017.
+
 **Samsung Pay**
 **Android Pay**
 

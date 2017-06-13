@@ -26,7 +26,9 @@ Line Pay is a payment system similar to Apple pay which operates inside the LINE
 **<p><a href="https://www.apple.com/tw/apple-pay/where-to-use/">Apple Pay</a><br></p>**
 Apple pay is currently operational in Taiwan and a list of locations which accept Apple pay can be found at the following link. Please note however, although Apple Pay is accepted at Familymart at the current time, it is limited to only Taixin Bank Card holders, and not "open" for use by any credit card until July of 2017.
 
-**Samsung Pay**
+**<p><a href="http://www.samsung.com/tw/samsungpay/">Samsung Pay</a><br></p>**
+Samsung Pay has also come to Taiwan recently
+
 **Android Pay**
 
 # **Transit Cards (您有卡/一通）**

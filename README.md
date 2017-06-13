@@ -2,17 +2,22 @@
 A completely FOSS Guide for Residents and Tourists who've settled down or who are just visiting this lovely island called Taiwan. Please feel more then welcome to submit issues, contribute information, the goal is to create a current, updated , one stop solution for any questions/guidance one may have about Taiwan. Eventually this guide will be split into two sections to make organziation easier for residents who know their way around and are looking for hard to source information, and those who are just starting to plan their Formosa trip! Thanks for stopping by.
 
 
-Currency: NTD 
+*President:* 蔡英文 Tsai Ing-wen 🇹@iingwen
 
-Population: 23 Million
+*Currency:* NTD 
 
-Climate: 
+*Population:* 23 Million
 
-National Holidays:
+*Climate*
 
-Emerg/Important Numbers:   🚨🔥 Ambulance and Fire **119**  👮 Police: **110** ☎️  24H Foreigners Helpline: **0800-024-111**
+*National Holidays:*
 
-Social Networks/Groups for Taiwan Discussions: 🇷https://www.reddit.com/r/taiwan/ 
+*Emerg/Important Numbers:*   🚨🔥 Ambulance and Fire **119**  👮 Police: **110** ☎️  24H Foreigners Helpline: **0800-024-111**
+
+*Social Networks/Groups for Taiwan Discussions:*
+🇷https://www.reddit.com/r/taiwan/ 
+🇹
+🇫
 
 # **Mobile Payment Systems**
 **Line Pay**

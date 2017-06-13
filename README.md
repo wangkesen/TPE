@@ -39,6 +39,8 @@ Please note one cannot simply just refund Easycards anymore and the refund proce
 # **Telecom Providers (Mobile Networks）**
 * 中華電信
 * 台灣大哥大
+* 台灣之星電
+* 遠傳電信
 
 # **Broadband Providers (Home Wifi）**
 * 中華電信 HINET

@@ -13,6 +13,8 @@ National Holidays:
 
 Emerg/Important Numbers:   🚨🔥 Ambulance and Fire **119**  👮 Police: **110** ☎️  24H Foreigners Helpline: **0800-024-111**
 
+Social Networks/Groups for Taiwan Discussions: 🇷https://www.reddit.com/r/taiwan/ 
+
 # **Mobile Payment Systems**
 **Line Pay**
 Line Pay is a payment system similar to Apple pay which operates inside the LINE messaging application offering contactless payment solutions via a mobile barcode that is scanned by the cashier and then the payment is authorized to your credit card. However, it currently does not support Visa/Mastercard/JCB of all countries and is quite limited in functionality for those who are not citizens or residents and do not have a Line Pay Visa Debit/Credit card from CTCB Bank. 

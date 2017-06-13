@@ -4,8 +4,15 @@ Please feel free to fork and contribute any information you deem appropriate.
 
 
 Currency: NTD 
+
 Population: 23 Million
+
 Climate: 
+
+National Holidays:
+
+Emergency Numbers:                🚨🔥 Ambulance and Fire **119**  
+                                  👮 Police: 110
 
 # **Mobile Payment Systems**
 **Line Pay**

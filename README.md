@@ -13,3 +13,4 @@ Climate:
 <a href="http://imgur.com/zKoINiY"><img src="http://i.imgur.com/zKoINiY.png?1" title="source: imgur.com" /></a>
 
 Central Weather Bureau: 
+Earthquake Reports via Web: <http://www.cwb.gov.tw/V7e/earthquake/quake_index.htm>

@@ -49,3 +49,7 @@ Documents required when signing contracts for broadband lease include a valid AR
 
 Central Weather Bureau: 
 Earthquake Reports via Web: <http://www.cwb.gov.tw/V7e/earthquake/quake_index.htm>
+
+**Typhoons:**
+
+**Landslides:**

@@ -18,6 +18,11 @@ Apple pay is currently operational in Taiwan and a list of locations which accep
 **Android Pay**
 
 # **Transit Cards (您有卡/一通）**
+The two cards in use by transit systems in Taiwan are called Easycard and iPass. These transit cards are reloadable via the terminals inside the train stations, or just by reloading at any convience store islandwide. Not only can they be used to fund transiting on the MRT, but also the TRA and anything you wish to purchase at convenience stores nationwide. They both offer their own application for tracking purchases made and transit amounts deducted, as well as checking the current amount on the card. The downside is that there is a signficant delay with when you actually made the purchase or transit trip, and when the amount is reflected via App, usually 3 days. If you need to check the amount remaining on your card right away, you can just either ask staff at 7, Familymart, or OK mart to check your current balance, or use the iBon/Familyport terminals in the stores. As well obviously the IC card readers are located on the terminal machines inside any MRT/TRA station. As of this year, iPass is accepted anywhere Easycard is also accepted. The maxinum reloadable amount for both cards is 10,000NTD.
+
+Please note one cannot simply just refund Easycards anymore and the refund process is lengthy, and refund will be mailed to your residence. If your not a resident here it's probably more worth your while to keep your card as a keepsake and not bother with the 4.00 refund. Pay careful attention not to lose your Easycard as those that are not registered will not be able to be re-imbursed if they are lost/stolen. Those who are issued credit cards or debit cards from their bank with dual Easycard/iPass functionality will automatically be registered and insured the value if you are to lose your card and replace with a new one.
+
+**Easycard 您遊卡**
 
 # **Disaster Awareness/Response**
 

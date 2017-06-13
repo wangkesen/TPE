@@ -2,7 +2,7 @@
 A completely FOSS Guide for Residents and Tourists who've settled down or who are just visiting this lovely island called Taiwan. Please feel more then welcome to submit issues, contribute information, the goal is not to replicate a Wiki page. Wikipedia is a good resource for information, but it's not a comprehense collection of experiences from those who have knowledge of an area. This guide aims to accomplish this by allowing the contribution of all members of the online community, not just those who are talented in writing. Eventually this guide will be split into two sections to make organziation easier for residents who know their way around and are looking for hard to source information, and those who are just starting to plan their Formosa trip! Thanks for stopping by.
 
 
-*President:* 蔡英文 Tsai Ing-wen 🇹@iingwen
+*President:* <p><a href="https://zh-tw.facebook.com/tsaiingwen/">蔡英文</a><br></p> 🇹@iingwen
 
 *Currency:* NTD 
 

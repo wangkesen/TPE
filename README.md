@@ -37,10 +37,10 @@ The two cards in use by transit systems in Taiwan are called Easycard and iPass.
 Please note one cannot simply just refund Easycards anymore and the refund process is lengthy, and refund will be mailed to your residence. If your not a resident here it's probably more worth your while to keep your card as a keepsake and not bother with the 4.00 refund. Pay careful attention not to lose your Easycard as those that are not registered will not be able to be re-imbursed if they are lost/stolen. Those who are issued credit cards or debit cards from their bank with dual Easycard/iPass functionality will automatically be registered and insured the value if you are to lose your card and replace with a new one.
 
 # **Telecom Providers (Mobile Networks）**
-* 中華電信
-* 台灣大哥大
-* 台灣之星電
-* 遠傳電信
+* <p><a href="https://www.emome.net/4g/4g_promo">中華電信</a><br></p>
+* <p><a href="https://www.taiwanmobile.com/mobile/postpaid/4g_rateplan/index_1.html?utm_source=twm_header&utm_medium=rateplan&utm_campaign=4gmirateplan#.WUBWRaimPjA">台灣大哥大</a><br></p>
+* <p><a href="https://www.tstartel.com/CWS/">台灣之星電</a><br></p>
+* <p><a href="https://www.fetnet.net/postpaid/rateplan/4GData_Promotion.html" target="_blank">遠傳電信</a><br></p>
 
 # **Broadband Providers (Home Wifi）**
 * 中華電信 HINET

@@ -11,8 +11,7 @@ Climate:
 
 National Holidays:
 
-Emergency Numbers:                🚨🔥 Ambulance and Fire **119**  
-                                  👮 Police: 110
+Emergency/Important Numbers:   🚨🔥 Ambulance and Fire **119**  👮 Police: 110 ☎️  24H Foreigners Helpline: 0800-024-111
 
 # **Mobile Payment Systems**
 **Line Pay**

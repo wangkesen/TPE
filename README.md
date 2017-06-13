@@ -30,10 +30,15 @@ The two cards in use by transit systems in Taiwan are called Easycard and iPass.
 
 Please note one cannot simply just refund Easycards anymore and the refund process is lengthy, and refund will be mailed to your residence. If your not a resident here it's probably more worth your while to keep your card as a keepsake and not bother with the 4.00 refund. Pay careful attention not to lose your Easycard as those that are not registered will not be able to be re-imbursed if they are lost/stolen. Those who are issued credit cards or debit cards from their bank with dual Easycard/iPass functionality will automatically be registered and insured the value if you are to lose your card and replace with a new one.
 
-# **Telecom Providers (）**
+# **Telecom Providers (Mobile Networks）**
 * 中華電信
 * 台灣大哥大
 
+# **Broadband Providers (Home Wifi）**
+* 中華電信 HINET
+* 台灣大哥大
+
+Documents required when signing contracts for broadband lease include a valid ARC/APRC with at least  X months of remaining validity.
 
 
 # **Disaster Awareness/Response**

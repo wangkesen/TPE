@@ -2,9 +2,9 @@
 A completely FOSS Guide for Residents and Tourists who've settled down or who are just visiting this lovely island called Taiwan. Please feel more then welcome to submit issues, contribute information, the goal is not to replicate a Wiki page. Wikipedia is a good resource for information, but it's not a comprehense collection of experiences from those who have knowledge of an area. This guide aims to accomplish this by allowing the contribution of all members of the online community, not just those who are talented in writing. Eventually this guide will be split into two sections to make organziation easier for residents who know their way around and are looking for hard to source information, and those who are just starting to plan their Formosa trip! Thanks for stopping by.
 
 
-*President:* <p><a href="https://zh-tw.facebook.com/tsaiingwen/">蔡英文</a><br></p> 🇹@iingwen
+*President:* <p><a href="https://zh-tw.facebook.com/tsaiingwen/">蔡英文</a><br></p> 
 
-*Currency:* NTD 
+*Currency:* NTD
 
 *Population:* 23 Million
 
@@ -20,7 +20,7 @@ A completely FOSS Guide for Residents and Tourists who've settled down or who ar
 🇫
 
 # **Mobile Payment Systems**
-**Line Pay**
+**<p><a href="https://line.me/en/pay">LINE Pay</a><br></p>**
 Line Pay is a payment system similar to Apple pay which operates inside the LINE messaging application offering contactless payment solutions via a mobile barcode that is scanned by the cashier and then the payment is authorized to your credit card. However, it currently does not support Visa/Mastercard/JCB of all countries and is quite limited in functionality for those who are not citizens or residents and do not have a Line Pay Visa Debit/Credit card from CTCB Bank. 
 
 **Apple Pay**

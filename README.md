@@ -1,6 +1,5 @@
 # TPE 🇹🇼 台灣
-Open Sourced Guide for Residents/Tourists living or visiting Taiwan.
-Please feel free to fork and contribute any information you deem appropriate.
+A completely FOSS Guide for Residents and Tourists who've settled down or who are just visiting this lovely island called Taiwan. Please feel more then welcome to submit issues, contribute information, the goal is to create a current, updated , one stop solution for any questions/guidance one may have about Taiwan. Eventually this guide will be split into two sections to make organziation easier for residents who know their way around and are looking for hard to source information, and those who are just starting to plan their Formosa trip! Thanks for stopping by.
 
 
 Currency: NTD 

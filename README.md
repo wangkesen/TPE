@@ -36,6 +36,7 @@ And finally, Android pay is now also available as well in Taiwan.
 
 # **Alternative Payment Methods**
 
+*iCash*
 <p><span style="color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;">iCash 2.0 is the second version of a reloadable cash card created by 7/11 stores. The card has similar functionality to Easycard/iPass minus the ability to fund transiting on the MRT/TRA. The system features "Openpoint" which basically allows you to gain points when you make purchases/reload the card. In addition to the regular cards, partnerships have been formed with banks in Taiwan to offer&nbsp;</span><a href="https://www.icash.com.tw/Home/IcashPrice/?type=08" style="background-color: white;">合作銀行優惠訊息</a>&nbsp;or combined cards that add credit/debit card functions as well.</p>
 
 # **Transit Cards (您有卡/一通）**

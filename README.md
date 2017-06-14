@@ -23,7 +23,7 @@ A completely FOSS Guide for Residents and Tourists who've settled down or who ar
 
 # **Mobile Payment Systems**
 **<p><a href="https://line.me/en/pay">LINE Pay</a><br></p>**
-Line Pay is a payment system similar to Apple pay which operates inside the LINE messaging application offering contactless payment solutions via a mobile barcode that is scanned by the cashier and then the payment is authorized to your credit card. However, it currently does not support Visa/Mastercard/JCB of all countries and is quite limited in functionality for those who are not citizens or residents and do not have a Line Pay Visa Debit/Credit card from CTCB Bank. 
+Line Pay is a payment system similar to Apple pay which operates inside the LINE messaging application offering contactless payment solutions via a mobile barcode that is scanned by the cashier and then the payment is authorized to your credit card. However, it currently does not support Visa/Mastercard/JCB of all countries and is quite limited in functionality for those who are not citizens or residents and do not have a Line Pay Visa Debit/Credit card from CTCB Bank. Those who have a credit/debit card from CTCB are able to gain a certain percentage from purchases back in points. These points can be used towards future purchases either at Familymart/7 or towards purchases made in the LINE app as well. 
 
 **<p><a href="https://www.apple.com/tw/apple-pay/where-to-use/">Apple Pay</a><br></p>**
 Apple pay is currently operational in Taiwan and a list of locations which accept Apple pay can be found at the following link. Please note however, although Apple Pay is accepted at Familymart at the current time, it is limited to only Taixin Bank Card holders, and not "open" for use by any credit card until July of 2017.
@@ -33,6 +33,11 @@ Samsung Pay has also come to Taiwan recently
 
 **<p><a href="https://www.bnext.com.tw/search/tag/Android%20Pay">Android Pay</a><br></p>**
 And finally, Android pay is now also available as well in Taiwan.
+
+# **Alternative Payment Methods**
+
+**<p><a href="https://www.bnext.com.tw/search/tag/Android%20Pay">iCash 2.0</a><br></p>**
+ICash 2.0 is the second version of a reloadable cash card created by 7/11 stores. The card has similar functionality to Easycard/iPass minus the ability to fund transiting on the MRT/TRA. The system features "Openpoint" which basically allows you to gain points when you make purchases/reload the card.
 
 # **Transit Cards (您有卡/一通）**
 <a href="http://imgur.com/BKLACte"><img src="http://i.imgur.com/BKLACte.jpg?2" title="source: imgur.com" /></a>

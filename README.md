@@ -10,7 +10,7 @@ A completely FOSS Guide for Residents and Tourists who've settled down or who ar
 
 *Population:* 23 Million
 
-*Climate*
+*Climate* Taiwan enjoys warm weather all year round. Weather conditions fluctuate during spring and winter seasons, while in summer and autumn the weather is relatively stable with temperatures anywhere from mid twenties to high 30's.
 
 *National Holidays:*
 
